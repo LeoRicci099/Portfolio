@@ -1,2 +1,2 @@
 # Portfolio
-Proyectos personales para practicar
+## Proyectos personales para practicar
